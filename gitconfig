@@ -48,3 +48,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = yuri@krawd.com
+	name = yuri mihaileanu
